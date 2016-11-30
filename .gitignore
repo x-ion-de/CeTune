@@ -6,4 +6,5 @@ conf/cetune_console.log
 conf/cetune_error.log
 conf/cetune_process.log
 conf/tuner.yaml
+webui/account.conf
 webui/sessions/
