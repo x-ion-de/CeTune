@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+conf/all.conf
+conf/cases.conf
+conf/cetune_console.log
+conf/cetune_error.log
+conf/cetune_process.log
+conf/tuner.yaml
+webui/sessions/
